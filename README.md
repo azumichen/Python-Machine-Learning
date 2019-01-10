@@ -1,7 +1,7 @@
 # Python for Machine Learning
 
 ## Python
-python tutorial, staging for deep/machine learning course
+python training, staging for deep/machine learning course
 
 [1️⃣ Lesson 1](1.1_lesson1.ipynb)
 [2️⃣ Lesson 2](1.2_lesson2.ipynb)
@@ -19,10 +19,7 @@ python tutorial, staging for deep/machine learning course
 
 * [From Keras to 🔥PyTorch🔥](3.5_from_keras_to_pytorch.ipynb)
 
-#### Originally designed to teach Alex python, thank you for your constant learning enthusiasm
-
-
-#### Also created for [coderbunker](http://www.coderbunker.com/co-learning) deep learning talk sessions
+#### created for [coderbunker](http://www.coderbunker.com/co-learning) deep learning talk sessions
 
 This course is the basic deep learning course that follows closely on Jeremy Howard's fantasic /free /life-changing [fast.ai course](course.fast.ai). 
 
@@ -36,7 +33,7 @@ The most of notebooks are just trails we left behind passing on their awesomenes
 
 <img src="docs/coord_conv.png" style="border-radius:7px;" alt="coord conv pic" width="200px"/>
 
-* Ray's [toolbox for deep learning](https://raynardj.github.io/ray/)
+* [toolbox for deep learning](https://raynardj.github.io/ray/)
 
 <img src="https://raynardj.github.io/ray/img/Match.jpg" style="border-radius:7px;" alt="match box pic" width="200px"/>
 
