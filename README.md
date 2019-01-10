@@ -19,9 +19,7 @@ python training, staging for deep/machine learning course
 
 * [From Keras to 🔥PyTorch🔥](3.5_from_keras_to_pytorch.ipynb)
 
-#### created for [coderbunker](http://www.coderbunker.com/co-learning) deep learning talk sessions
-
-This course is the basic deep learning course that follows closely on Jeremy Howard's fantasic /free /life-changing [fast.ai course](course.fast.ai). 
+This course is the basic deep learning course that follows closely on Jeremy Howard's fantasic /free /life-changing [fast.ai course](course.fast.ai). This course created for [coderbunker](http://www.coderbunker.com/co-learning) deep learning talk sessions.
 
 The most of notebooks are just trails we left behind passing on their awesomeness.
 
