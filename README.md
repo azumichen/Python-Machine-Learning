@@ -1,6 +1,5 @@
 # Python for Machine Learning
 
-
 ## Python
 python tutorial, staging for deep/machine learning course
 
@@ -78,28 +77,4 @@ If you are on Mac:
 ```
 To install PyTorch. For other system, You'll have to visit their [homepage](https://pytorch.org/) to copy/paste the right command to install.
 
-### Ray
-
-In some lines of code you might see
-
-```python
-from ray import matchbox
-```
-
-or
-```
-from ray.lprint import lprint
-```
-
-Yeah, I listened to my friends any named my tool belt ray.
-
-Ray is a github repository [here](https://github.com/raynardj/ray)
-
-### Contact Us
-
-If you want to be a contributor:
-
-mail: ```raynard@rasenn.com```
-
-wechat: 417848506 remark:"python4ml"
 
